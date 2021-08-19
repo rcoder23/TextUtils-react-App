@@ -14,6 +14,7 @@ function App() {
       setmode('dark');
       document.body.style.backgroundColor="black";
       document.getElementById("exa").style.backgroundColor="black";
+      document.getElementById("exa").style.color="white";
       document.getElementById("stt").style.color="white";
       document.getElementById("stt2").style.color="white";
       // document.getElementsByClassName("stt").style.color="red";
@@ -21,6 +22,7 @@ function App() {
       setmode('light');
       document.body.style.backgroundColor="white";
       document.getElementById("exa").style.backgroundColor="white";
+      document.getElementById("exa").style.color="black";
       // document.getElementById("stt").style.backgroundColor="red";
       document.getElementById("stt").style.color="black";
       document.getElementById("stt2").style.color="black";
